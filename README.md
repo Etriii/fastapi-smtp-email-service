@@ -36,6 +36,8 @@ EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
 EMAIL_HOST_USER=youremail@gmail.com
 EMAIL_HOST_PASSWORD=your_app_password
+
+If using Gmail, generate an App Password — don't use your actual password.
 ```
 
 5. Run the FastAPI application:
